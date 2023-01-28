@@ -5,7 +5,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
@@ -47,14 +46,8 @@
 <li>Project is: Completed</li></ul>
 
 
-
-
-## Acknowledgements
- 
- This README.md was inspired by <a href ="https://github.com/ritaly"> Ritaly</a>
     
    
-
 
 ## Contact
 Created by [Paulette](https://paulette-zaldivar-flores.netlify.app/) - feel free to contact me!
